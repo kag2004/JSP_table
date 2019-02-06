@@ -23,7 +23,7 @@
 	
 	<Resource
 		  auth="Container" 
-          name="jdbc/orcl" 
+          name="jdbc/xe" 
           driverClassName="oracle.jdbc.driver.OracleDriver" 
           type="javax.sql.DataSource" 
           url="jdbc:oracle:thin:@localhost:1521:xe" 

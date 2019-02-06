@@ -96,7 +96,7 @@
                         <option>nate.com</option>                        
                     </select>
                 </td>
-            </tr>
+            </tr>`
            	<tr>
             	<td id="title">휴대전화</td>
                 <td>
